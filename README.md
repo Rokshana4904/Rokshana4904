@@ -80,36 +80,34 @@
 🔗 **Repo:** Practice-Automation
 
 ---
-## 📊 GitHub Performance
+
+## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rokshana4904&show_icons=true&theme=radical&hide_border=true&border_radius=15" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rokshana4904&theme=react-dark&hide_border=true" />
 </p>
+## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rokshana4904&layout=compact&theme=radical&hide_border=true&border_radius=15" />
-</p>
+![snake animation](https://github.com/Rokshana4904/Rokshana4904/blob/output/github-contribution-grid-snake.svg)
 
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rokshana4904&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rokshana4904&theme=radical" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" />
 
 ---
-
-## 📈 Contribution Graph
+## 🚀 GitHub Activity Overview
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rokshana4904&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rokshana4904&show_icons=true&theme=radical&hide_border=true" />
 </p>
 
----
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Rokshana4904&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rokshana4904&theme=react-dark&hide_border=true" />
+</p>
+
+![snake animation](https://github.com/Rokshana4904/Rokshana4904/blob/output/github-contribution-grid-snake.svg)
 
 ## 🎯 Extra Activities & Leadership
 
