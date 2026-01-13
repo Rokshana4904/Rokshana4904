@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Rokshana%20Talukder%20Ratri&fontSize=35&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h3 align="center">Software Quality Assurance (SQA) Enthusiast</h3>
+<h3 align="center">Software Quality Assurance (SQA) Enginner</h3>
 <p align="center">Manual • API • Automation Testing</p>
 
 ---
