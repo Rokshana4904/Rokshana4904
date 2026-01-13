@@ -86,28 +86,7 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rokshana4904&theme=react-dark&hide_border=true" />
 </p>
-## 🐍 Contribution Snake
 
-![snake animation](https://github.com/Rokshana4904/Rokshana4904/blob/output/github-contribution-grid-snake.svg)
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" />
-
----
-## 🚀 GitHub Activity Overview
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rokshana4904&show_icons=true&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Rokshana4904&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rokshana4904&theme=react-dark&hide_border=true" />
-</p>
-
-![snake animation](https://github.com/Rokshana4904/Rokshana4904/blob/output/github-contribution-grid-snake.svg)
 
 ## 🎯 Extra Activities & Leadership
 
