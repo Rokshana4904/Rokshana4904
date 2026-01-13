@@ -68,18 +68,28 @@
 ### 🔗 API Testing (Postman)
 - Created & executed REST API test cases
 - Performed functional, integration & regression testing
-- Used collections, environments & scripts for optimization  
+- Used collections, environments & scripts for optimisation  
 🔗 **Repo:** API-Testing
 
 ---
 
 ### 🤖 Selenium Automation Practice
 - Developed basic Selenium automation scripts (JavaScript)
-- Tested UI behavior, form validation & cross-browser features
+- Tested UI behaviour, form validation & cross-browser features
 - Used modular & reusable test functions  
 🔗 **Repo:** Practice-Automation
 
 ---
+## 📊 GitHub Performance
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rokshana4904&show_icons=true&theme=radical&hide_border=true&border_radius=15" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rokshana4904&layout=compact&theme=radical&hide_border=true&border_radius=15" />
+</p>
+
 
 ## 📊 GitHub Stats
 
