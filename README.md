@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f857a6,50:ff5858,100:f857a6&height=200&section=header&text=Rokshana%20Talukder%20Ratri&fontSize=36&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h3 align="center">Software Quality Assurance (SQA) Intern Aspirant</h3>
+<h3 align="center">Software Quality Assurance (SQA) Enginner</h3>
 <p align="center">Manual Testing • API Testing • Automation (Basic)</p>
 
 ---
