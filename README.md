@@ -1,38 +1,38 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Rokshana%20Talukder%20Ratri&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f857a6,50:ff5858,100:f857a6&height=200&section=header&text=Rokshana%20Talukder%20Ratri&fontSize=36&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h3 align="center">Software Quality Assurance (SQA) Enginner</h3>
-<p align="center">Manual • API • Automation Testing</p>
+<h3 align="center">Software Quality Assurance (SQA) Intern Aspirant</h3>
+<p align="center">Manual Testing • API Testing • Automation (Basic)</p>
 
 ---
 
 ## 👩‍💻 About Me
 
-🎓 **BSc in CSE** – Daffodil International University  
-🔍 Passionate about ensuring **high-quality, bug-free software**  
-🧪 Hands-on experience in **Manual Testing, API Testing & Automation Basics**  
-🚀 Currently learning **Advanced Selenium & QA Best Practices**
+🎓 **BSc in Computer Science & Engineering**  
+🏫 Daffodil International University (**GPA: 3.70/4.00**)  
+🔍 Passionate about delivering **high-quality, reliable software**  
+🧪 Hands-on experience in **Manual, API & Selenium Automation Testing**  
+🚀 Currently improving **Automation & QA best practices**
 
 ---
 
-## 🛠️ Testing Skills & Tools
+## 🧪 Testing Skills
 
-### 🧪 Testing Types
-- Manual Testing
-- Test Case Design
-- Bug Reporting
-- Smoke & Regression Testing
-- API Testing (Postman)
+- Manual Testing  
+- Test Case & Test Scenario Design  
+- Bug Reporting & Documentation  
+- Smoke & Regression Testing  
+- API Testing (Postman)  
+- Selenium Automation (Basic)
 
-### 🤖 Automation
-- Selenium (Basic)
-- JavaScript Automation Practice
+---
 
-### 🧰 Tools & Platforms
+## 🛠️ Tools & Technologies
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postman,github,jira,mysql,selenium,js,java" />
+  <img src="https://skillicons.dev/icons?i=postman,selenium,github,jira,mysql,js,java,python,html,css" />
 </p>
 
 ---
@@ -40,20 +40,26 @@
 ## 📂 Featured Projects
 
 ### 🛒 E-Commerce Web Application Testing
-- Manual Test Scenarios & Test Cases
-- Bug Reports with Severity & Priority
-- Modules: Login, Signup, Cart, Product, Contact Us  
+- Designed detailed **test scenarios, test cases & bug reports**
+- Tested Login, Signup, Cart, Product & Contact modules
+- Documented results using **Excel & Word**
+- Improved defect traceability through structured testing  
 🔗 **Repo:** Ecommerce_Testing
 
-### 🔗 API Testing Project
-- REST API testing using Postman
-- Status Code & Response Validation
-- Postman Collections  
+---
+
+### 🔗 API Testing (Postman)
+- Created & executed REST API test cases
+- Performed functional, integration & regression testing
+- Used collections, environments & scripts for optimization  
 🔗 **Repo:** API-Testing
 
-### 🤖 Automation Practice
-- Selenium basic automation scripts
-- Element handling & test execution  
+---
+
+### 🤖 Selenium Automation Practice
+- Developed basic Selenium automation scripts (JavaScript)
+- Tested UI behavior, form validation & cross-browser features
+- Used modular & reusable test functions  
 🔗 **Repo:** Practice-Automation
 
 ---
@@ -61,41 +67,50 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rokshana4904&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rokshana4904&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rokshana4904&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rokshana4904&theme=radical" />
 </p>
 
 ---
 
-## 📈 Contribution Activity
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rokshana4904&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rokshana4904&theme=dracula" />
 </p>
 
 ---
 
-## 📚 Currently Learning
-- Selenium Automation Frameworks
-- Test Automation Best Practices
-- CI/CD Basics for QA
+## 🎯 Extra Activities & Leadership
+
+- Assistant General Secretary – **DIU Computer & Programming Club**
+- Executive Member – **DIU CPC**
+- Session Coordinator – **BIM 2023**
+- Team Lead – **ICPC 2024 Volunteers**
+- Team Lead – **Robo Tech Olympiad 2024 Volunteers**
+
+---
+
+## 📚 Courses
+- **SQA: Manual & Automated Testing** – Ostad
 
 ---
 
 ## 📫 Contact Me
 
-📧 Email: **talukder15-4904@diu.edu.bd**  
-💼 GitHub: https://github.com/Rokshana4904  
+📧 Email: **rokshana.cse.bd@gmail.com**  
+🔗 GitHub: https://github.com/Rokshana4904  
+💼 LinkedIn: https://www.linkedin.com/in/rokshana-talukder-474287262  
 
 ---
 
 <p align="center">
-  <strong>Thanks for visiting my profile 💙</strong>
+  <strong>Thanks for visiting my profile 💖</strong>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f857a6,50:ff5858,100:f857a6&height=120&section=footer" />
 </p>
