@@ -46,9 +46,11 @@ I'm passionate about software quality, testing methodologies, and delivering rel
 - 🎯 **Goal:** Become a skilled QA Engineer with strong automation and database-testing expertise
 - 💚 **My Approach:** Understand the requirements, test carefully, report clearly, and improve continuously
 
+
 <p align="center">
-  <i>"Quality is not an act; it is a habit."</i>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1200&color=6EE7B7&center=true&vCenter=true&width=750&lines=%22Quality+is+not+an+act%3B+it+is+a+habit.%22" alt="Animated Quality Quote"/>
 </p>
+
 
 ---
 
