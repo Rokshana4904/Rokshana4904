@@ -329,20 +329,45 @@
   </a>
 </p>
 
-<!-- PROFILE VIEWS AND FOLLOWERS -->
 
-<table>
+<!-- =============== PROFILE VIEWS & FOLLOWERS =============== -->
+
+<h2 align="center">✨ Profile Engagement</h2>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=6EE7B7&center=true&vCenter=true&width=450&lines=Every+visit+matters+%F0%9F%92%9A;Thanks+for+being+part+of+my+journey!"
+    alt="Animated Profile Engagement Message"
+  />
+</p>
+
+<table align="center">
   <tr>
     <td align="center" width="50%">
-      <h3>👁️ Profile Views</h3>
-      <img src="https://komarev.com/ghpvc/?username=Rokshana4904&style=for-the-badge&color=059669&label=PROFILE+VIEWS" alt="Profile Views"/>
+      <img src="https://img.shields.io/badge/PROFILE%20VIEWS-059669?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Profile Views Label"/>
+      <br/><br/>
+      <img src="https://komarev.com/ghpvc/?username=Rokshana4904&style=for-the-badge&color=059669&label=VISITORS" alt="Profile Visitor Counter"/>
+      <br/>
+      <sub>👀 Thanks for visiting!</sub>
     </td>
     <td align="center" width="50%">
-      <h3>🤝 Followers</h3>
+      <img src="https://img.shields.io/badge/GITHUB%20COMMUNITY-065F46?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub Community Label"/>
+      <br/><br/>
       <img src="https://img.shields.io/github/followers/Rokshana4904?style=for-the-badge&color=059669&labelColor=0D1117&label=FOLLOWERS" alt="GitHub Followers"/>
+      <br/>
+      <sub>🤝 Let's grow together!</sub>
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:022C22,50:059669,100:6EE7B7&height=3&section=header" width="65%" alt="Emerald Accent Divider"/>
+</p>
+
+<p align="center">
+  <i>💚 Code • Test • Improve • Repeat</i>
+</p>
+
 
 ---
 
