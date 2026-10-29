@@ -1,91 +1,117 @@
 
-<!-- ================= HERO BANNER ================= -->
+<!-- ================================================== -->
+<!--              HERO / ANIMATED BANNER               -->
+<!-- ================================================== -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:064E3B,50:059669,100:6EE7B7&height=220&section=header&text=Rokshana%20Talukder%20Ratri&fontSize=34&fontColor=FFFFFF&fontAlignY=38&desc=Junior%20SQA%20Engineer%20%7C%20Quality%20Advocate&descAlignY=58&descSize=16&animation=fadeIn" width="100%" alt="Rokshana Talukder Ratri banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:022C22,30:065F46,65:059669,100:6EE7B7&height=240&section=header&text=ROKSHANA%20TALUKDER%20RATRI&fontSize=34&fontColor=FFFFFF&fontAlignY=38&desc=JUNIOR%20SQA%20ENGINEER%20%7C%20QUALITY%20ADVOCATE&descSize=14&descAlignY=58&animation=twinkling" width="100%" alt="Animated emerald green profile banner"/>
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1200&color=6EE7B7&center=true&vCenter=true&width=650&lines=Breaking+software+before+users+do+%F0%9F%90%9B;Manual+Testing+%7C+API+Testing+%7C+Automation;Turning+bugs+into+better+user+experiences;Learning%2C+Testing%2C+Improving+Every+Day" alt="Animated introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=6EE7B7&center=true&vCenter=true&width=700&height=100&lines=%3E+Hello%2C+World!+I'm+Rokshana+%F0%9F%91%8B;%3E+I+test+software+to+make+it+better;%3E+Manual+Testing+%7C+API+Testing+%7C+Automation;%3E+Find+Bugs.+Improve+Quality.+Build+Trust.;%3E+Always+Learning.+Always+Testing." alt="Animated QA introduction"/>
+
+<br/>
+
+<a href="https://github.com/Rokshana4904">
+<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-064E3B?style=for-the-badge&logo=github&logoColor=6EE7B7" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/rokshana-talukder-474287262">
+<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-059669?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:rokshana.cse.bd@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-047857?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
-<p>
-  <a href="https://github.com/Rokshana4904">
-    <img src="https://img.shields.io/badge/GitHub-Rokshana4904-064E3B?style=for-the-badge&logo=github&logoColor=6EE7B7" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/rokshana-talukder-474287262">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-059669?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:rokshana.cse.bd@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-047857?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+<br/><br/>
+
+<img src="https://img.shields.io/badge/FOCUS-Software%20Quality-064E3B?style=flat-square&labelColor=022C22" alt="Software quality focus"/>
+<img src="https://img.shields.io/badge/MINDSET-Continuous%20Learning-059669?style=flat-square&labelColor=022C22" alt="Continuous learning"/>
+<img src="https://img.shields.io/badge/GOAL-Better%20Software-6EE7B7?style=flat-square&labelColor=064E3B" alt="Better software"/>
 
 </div>
 
 ---
 
-<!-- ================= ABOUT ME ================= -->
+<!-- ================================================== -->
+<!--                    ABOUT ME                        -->
+<!-- ================================================== -->
 
 ## 👩‍💻 About Me
 
-Hello! I'm **Rokshana Talukder Ratri**, a **Junior SQA Engineer at Accord Technologies Limited**, passionate about software quality, test engineering, and creating reliable digital experiences.
+```text
+Name       : Rokshana Talukder Ratri
+Role       : Junior SQA Engineer
+Company    : Accord Technologies Limited
+Education  : BSc in Computer Science & Engineering
+University : Daffodil International University
+CGPA       : 3.70 / 4.00
+```
 
-I believe quality is not just about finding bugs — it's about preventing defects, improving user experience, and helping teams deliver better software.
+I'm a **Junior SQA Engineer at Accord Technologies Limited**, passionate about software testing, quality assurance, and delivering reliable digital experiences.
 
-- 💼 **Current Role:** Junior SQA Engineer at Accord Technologies Limited
-- 🎓 **Education:** BSc in Computer Science & Engineering
-- 🏛️ **University:** Daffodil International University
-- 📊 **CGPA:** 3.70 / 4.00
-- 🧪 **Focus Areas:** Manual Testing, API Testing & UI Automation
-- 🌱 **Currently Learning:** Advanced automation, SQL & database testing
-- 🎯 **Career Goal:** To grow into a skilled QA Engineer who builds quality into every stage of software development.
+For me, QA is more than finding bugs. It's about understanding requirements, identifying risks, preventing defects, and helping teams deliver software that users can trust.
+
+- 🔍 Exploring software behavior and identifying defects.
+- 🧪 Designing test scenarios, test cases, and bug reports.
+- 🔗 Practicing API testing and request/response validation.
+- 🤖 Developing my UI automation testing skills.
+- 🗄️ Expanding my knowledge of SQL and database testing.
+- 🌱 Continuously learning and improving my QA practices.
 
 ---
 
-<!-- ================= SKILLS ================= -->
+<!-- ================================================== -->
+<!--                  QA SKILLS                         -->
+<!-- ================================================== -->
 
 ## 🧪 Quality Assurance Toolkit
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 ### 🔍 Testing Skills
 
-- Manual & Functional Testing
-- Test Scenario & Test Case Design
-- Bug Reporting & Defect Tracking
-- Smoke & Regression Testing
-- API Testing & Validation
-- UI Testing & Form Validation
-- Basic Selenium Automation
-
-</td>
-<td width="50%" valign="top">
+<p>
+<img src="https://img.shields.io/badge/Manual%20Testing-059669?style=for-the-badge&logoColor=white" alt="Manual Testing"/>
+<img src="https://img.shields.io/badge/Functional%20Testing-047857?style=for-the-badge" alt="Functional Testing"/>
+<img src="https://img.shields.io/badge/Regression%20Testing-065F46?style=for-the-badge" alt="Regression Testing"/>
+<img src="https://img.shields.io/badge/Smoke%20Testing-059669?style=for-the-badge" alt="Smoke Testing"/>
+<img src="https://img.shields.io/badge/API%20Testing-047857?style=for-the-badge" alt="API Testing"/>
+<img src="https://img.shields.io/badge/Test%20Case%20Design-065F46?style=for-the-badge" alt="Test Case Design"/>
+<img src="https://img.shields.io/badge/Bug%20Reporting-059669?style=for-the-badge" alt="Bug Reporting"/>
+<img src="https://img.shields.io/badge/UI%20Automation-Basic-064E3B?style=for-the-badge" alt="Basic UI Automation"/>
+</p>
 
 ### ⚙️ Tools & Technologies
+
+**Testing & Project Management**
 
 <p>
 <img src="https://img.shields.io/badge/Postman-059669?style=flat-square&logo=postman&logoColor=white" alt="Postman"/>
 <img src="https://img.shields.io/badge/Selenium-047857?style=flat-square&logo=selenium&logoColor=white" alt="Selenium"/>
 <img src="https://img.shields.io/badge/Jira-065F46?style=flat-square&logo=jira&logoColor=white" alt="Jira"/>
-<img src="https://img.shields.io/badge/Java-059669?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
-<img src="https://img.shields.io/badge/JavaScript-6EE7B7?style=flat-square&logo=javascript&logoColor=064E3B" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/Python-047857?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/MySQL-059669?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
-<img src="https://img.shields.io/badge/GitHub-064E3B?style=flat-square&logo=github&logoColor=6EE7B7" alt="GitHub"/>
-<img src="https://img.shields.io/badge/HTML5-047857?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-059669?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/Trello-059669?style=flat-square&logo=trello&logoColor=white" alt="Trello"/>
 </p>
 
-</td>
-</tr>
-</table>
+**Programming & Web Technologies**
+
+<p>
+<img src="https://img.shields.io/badge/Java-059669?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/JavaScript-6EE7B7?style=flat-square&logo=javascript&logoColor=022C22" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/Python-047857?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/HTML5-059669?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-047857?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+</p>
+
+**Database & Version Control**
+
+<p>
+<img src="https://img.shields.io/badge/MySQL-059669?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/GitHub-064E3B?style=flat-square&logo=github&logoColor=6EE7B7" alt="GitHub"/>
+<img src="https://img.shields.io/badge/Git-047857?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+</p>
 
 ---
 
-<!-- ================= FEATURED PROJECTS ================= -->
+<!-- ================================================== -->
+<!--                  FEATURED PROJECTS                  -->
+<!-- ================================================== -->
 
 ## 🚀 Featured QA Projects
 
@@ -93,39 +119,51 @@ I believe quality is not just about finding bugs — it's about preventing defec
 <tr>
 <td width="50%" valign="top">
 
-### 🛒 E-Commerce Testing
+<h3>🛒 E-Commerce Web Application Testing</h3>
 
-Functional testing of core e-commerce workflows.
+<p>
+<img src="https://img.shields.io/badge/TYPE-Manual%20QA-059669?style=flat-square" alt="Manual QA"/>
+</p>
 
-- Login & registration validation
-- Product and cart testing
+Tested key e-commerce workflows to identify functional issues and improve the user experience.
+
+**Key Activities**
+- Login and registration testing
+- Product and cart validation
 - Contact form testing
-- Test cases and bug reports
-- Test documentation
+- Test scenario and test case design
+- Bug reporting and documentation
+- Test results in Excel and Word
 
-**Tools:** Excel, Word, Manual Testing
+**Tools:** Manual Testing, Excel, Word
 
 <a href="https://github.com/Rokshana4904/Ecommerce_Testing">
-<img src="https://img.shields.io/badge/View%20Repository-059669?style=for-the-badge&logo=github&logoColor=white" alt="View E-Commerce Testing repository"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-059669?style=for-the-badge&logo=github&logoColor=white" alt="E-Commerce Testing repository"/>
 </a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🔗 REST API Testing
+<h3>🔗 REST API Testing with Postman</h3>
 
-API validation using Postman.
+<p>
+<img src="https://img.shields.io/badge/TYPE-API%20QA-047857?style=flat-square" alt="API QA"/>
+</p>
 
+Practiced API validation and tested REST endpoints using Postman.
+
+**Key Activities**
 - HTTP request validation
-- Response status & body checks
-- Functional & integration testing
+- Response status and body checks
+- Functional and integration testing
 - Collection and environment setup
 - Basic automated test scripts
+- Regression test execution
 
 **Tools:** Postman, REST APIs
 
 <a href="https://github.com/Rokshana4904/API-Testing">
-<img src="https://img.shields.io/badge/View%20Repository-047857?style=for-the-badge&logo=github&logoColor=white" alt="View API Testing repository"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-047857?style=for-the-badge&logo=github&logoColor=white" alt="API Testing repository"/>
 </a>
 
 </td>
@@ -133,22 +171,27 @@ API validation using Postman.
 <tr>
 <td colspan="2" valign="top">
 
-### 🤖 Selenium Automation Practice
+<h3>🤖 Selenium Automation Practice</h3>
 
-Basic UI automation scripts using JavaScript.
+<p>
+<img src="https://img.shields.io/badge/TYPE-UI%20AUTOMATION-065F46?style=flat-square" alt="UI Automation"/>
+<img src="https://img.shields.io/badge/LEVEL-Basic-064E3B?style=flat-square" alt="Basic level"/>
+</p>
 
+Practicing UI automation to improve test repeatability and reduce repetitive manual checks.
+
+**Key Activities**
 - Web element interaction
 - Form validation testing
-- Reusable test functions
 - UI behavior verification
+- Reusable test functions
+- Basic automation scripts using JavaScript
 
 **Tools:** Selenium, JavaScript
 
-<div align="left">
 <a href="https://github.com/Rokshana4904/Practice-Automation">
-<img src="https://img.shields.io/badge/View%20Repository-065F46?style=for-the-badge&logo=github&logoColor=6EE7B7" alt="View Automation Practice repository"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-065F46?style=for-the-badge&logo=github&logoColor=6EE7B7" alt="Automation Practice repository"/>
 </a>
-</div>
 
 </td>
 </tr>
@@ -156,9 +199,11 @@ Basic UI automation scripts using JavaScript.
 
 ---
 
-<!-- ================= GITHUB ANALYTICS ================= -->
+<!-- ================================================== -->
+<!--                   GITHUB STATS                     -->
+<!-- ================================================== -->
 
-## 📊 GitHub Activity
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -166,62 +211,84 @@ Basic UI automation scripts using JavaScript.
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rokshana4904&layout=compact&hide_border=true&bg_color=0D1117&title_color=6EE7B7&text_color=C9D1D9" alt="Most used programming languages"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rokshana4904&bg_color=0D1117&color=6EE7B7&line=059669&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub contribution activity"/>
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rokshana4904&hide_border=true&background=0D1117&ring=059669&fire=6EE7B7&currStreakLabel=6EE7B7&sideLabels=6EE7B7&dates=9CA3AF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rokshana4904&bg_color=0D1117&color=6EE7B7&line=059669&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="GitHub contribution activity"/>
 
 </div>
 
 ---
 
-<!-- ================= LEADERSHIP ================= -->
+<!-- ================================================== -->
+<!--                LEADERSHIP & ACTIVITIES              -->
+<!-- ================================================== -->
 
 ## 🏆 Leadership & Activities
 
-- **Assistant General Secretary** — DIU Computer & Programming Club
-- **Executive Member** — DIU Computer & Programming Club
-- **Session Coordinator** — BIM 2023
-- **Team Lead** — ICPC 2024 Volunteers
-- **Team Lead** — Robo Tech Olympiad 2024 Volunteers
+| Role | Organization / Event |
+|---|---|
+| Assistant General Secretary | DIU Computer & Programming Club |
+| Executive Member | DIU Computer & Programming Club |
+| Session Coordinator | BIM 2023 |
+| Team Lead | ICPC 2024 Volunteers |
+| Team Lead | Robo Tech Olympiad 2024 Volunteers |
 
-These experiences helped me develop teamwork, communication, coordination, and problem-solving skills.
+These experiences have helped me develop teamwork, communication, coordination, leadership, and problem-solving skills.
 
 ---
 
-<!-- ================= LEARNING ================= -->
+<!-- ================================================== -->
+<!--                 LEARNING ROADMAP                    -->
+<!-- ================================================== -->
 
 ## 📚 Learning & Growth
 
+**Completed Course**
+
 - 🎓 SQA: Manual & Automated Testing — Ostad
-- 🗄️ Learning SQL queries and database testing
-- 🔌 Improving API testing with Postman
-- 🤖 Strengthening UI automation fundamentals
-- 📝 Improving test documentation and defect reporting
+
+**Current Learning Goals**
+
+- 🗄️ SQL queries and database testing
+- 🔗 API testing with Postman
+- 🤖 Selenium automation fundamentals
+- 📝 Better test documentation and defect reporting
+- 🔄 QA best practices and test process improvement
 
 ---
 
-<!-- ================= CONTACT ================= -->
+<!-- ================================================== -->
+<!--                   CONTACT ME                        -->
+<!-- ================================================== -->
 
 ## 🤝 Let's Connect
 
-I'm always interested in connecting with QA professionals, learning from experienced engineers, and collaborating on projects that improve software quality.
-
-<p align="center">
-  <a href="mailto:rokshana.cse.bd@gmail.com">
-    <img src="https://img.shields.io/badge/Email-047857?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/rokshana-talukder-474287262">
-    <img src="https://img.shields.io/badge/LinkedIn-059669?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/Rokshana4904">
-    <img src="https://img.shields.io/badge/GitHub-064E3B?style=for-the-badge&logo=github&logoColor=6EE7B7" alt="GitHub"/>
-  </a>
-</p>
+I'm always happy to connect with QA professionals, learn from experienced engineers, and collaborate on projects that improve software quality.
 
 <div align="center">
 
-### 💚 Quality is a process, not a final checkpoint.
+<a href="mailto:rokshana.cse.bd@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-059669?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://www.linkedin.com/in/rokshana-talukder-474287262">
+<img src="https://img.shields.io/badge/LINKEDIN-047857?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/Rokshana4904">
+<img src="https://img.shields.io/badge/GITHUB-064E3B?style=for-the-badge&logo=github&logoColor=6EE7B7" alt="GitHub"/>
+</a>
 
-*Thank you for visiting my profile! Let's make software better, one test at a time.*
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:064E3B,50:059669,100:6EE7B7&height=110&section=footer" width="100%" alt="Footer banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6EE7B7,40:059669,75:065F46,100:022C22&height=160&section=footer&animation=twinkling" width="100%" alt="Animated emerald footer"/>
+
+### 💚 Quality is not an act — it's a habit.
+
+**Find Bugs · Improve Quality · Build Trust**
+
+<sub>Thanks for visiting my profile. Let's make software better, one test at a time.</sub>
 
 </div>
