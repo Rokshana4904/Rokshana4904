@@ -330,29 +330,36 @@
   </tr>
 </table>
 
-<!-- CONTRIBUTION STREAK -->
 
-<h3 align="center">🔥 Contribution Streak</h3>
+<!-- 3D CONTRIBUTION GRAPH -->
+
+<h2 align="center">🟢 3D GitHub Contribution Graph</h2>
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Rokshana4904&theme=github-dark-blue&hide_border=true&ring=059669&fire=6EE7B7&currStreakLabel=6EE7B7"
-    width="75%"
-    alt="GitHub Contribution Streak"
-  />
+  <i>Every contribution is a step toward better software quality.</i>
 </p>
 
-<!-- CONTRIBUTION ACTIVITY -->
-
-<h3 align="center">📅 Contribution Activity</h3>
-
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Rokshana4904&bg_color=0D1117&color=6EE7B7&line=059669&point=6EE7B7&area=true&hide_border=true&custom_title=Contribution%20Activity"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Rokshana4904&bg_color=050816&color=6EE7B7&line=22C55E&point=4ADE80&area=true&hide_border=true&custom_title=Contribution%20Activity"
     width="100%"
-    alt="GitHub Contribution Activity"
+    alt="GitHub Contribution Activity Graph"
   />
 </p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Rokshana4904&show_icons=true&hide_border=true&bg_color=050816&title_color=6EE7B7&icon_color=22C55E&text_color=FFFFFF"
+    width="49%"
+    alt="GitHub Statistics"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rokshana4904&layout=donut&hide_border=true&bg_color=050816&title_color=6EE7B7&text_color=FFFFFF"
+    width="49%"
+    alt="Top Programming Languages"
+  />
+</p>
+
 
 <!-- PROFILE VIEWS AND FOLLOWERS -->
 
