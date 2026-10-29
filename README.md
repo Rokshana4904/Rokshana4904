@@ -199,41 +199,127 @@ Practicing UI automation to improve test repeatability and reduce repetitive man
 
 ---
 
-<!-- ================================================== -->
-<!--                   GITHUB STATS                     -->
-<!-- ================================================== -->
-
 
 <!-- ================= GITHUB ANALYTICS ================= -->
 
-## 📊 GitHub Analytics
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6EE7B7&center=true&vCenter=true&width=600&lines=GitHub+Analytics;Code+%E2%80%A2+Test+%E2%80%A2+Improve+%E2%80%A2+Repeat" alt="GitHub Analytics" />
+</h1>
 
-<div align="center">
+<p align="center">
+  <b>💚 Better Quality Through Testing</b>
+</p>
 
-<!-- Profile Stats -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rokshana4904&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=6EE7B7&icon_color=059669&text_color=C9D1D9" alt="GitHub Profile Statistics"/>
+<!-- PROFILE STATISTICS + TOP LANGUAGES -->
 
-<!-- Top Languages -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rokshana4904&layout=donut&hide_border=true&langs_count=6&bg_color=0D1117&title_color=6EE7B7&text_color=C9D1D9" alt="Top Programming Languages"/>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<br/><br/>
+<h3 align="center">📊 Profile Statistics</h3>
 
-<!-- Contribution Streak -->
-<img width="70%" src="https://streak-stats.demolab.com?user=Rokshana4904&hide_border=true&background=0D1117&ring=059669&fire=6EE7B7&currStreakLabel=6EE7B7&sideLabels=6EE7B7&dates=9CA3AF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Contribution Streak"/>
+<p align="center">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Rokshana4904&show_icons=true&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=6EE7B7&icon_color=059669&text_color=C9D1D9" alt="GitHub Profile Statistics" />
+</p>
 
-<br/><br/>
+</td>
+<td width="50%" valign="top">
 
-<!-- Contribution Activity Graph -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rokshana4904&bg_color=0D1117&color=6EE7B7&line=059669&point=6EE7B7&area=true&area_color=064E3B&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub Contribution Activity"/>
+<h3 align="center">💻 Top Languages</h3>
 
-<br/>
+<p align="center">
+  <img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rokshana4904&layout=donut&langs_count=6&hide_border=true&bg_color=0D1117&title_color=6EE7B7&text_color=C9D1D9" alt="Top Programming Languages" />
+</p>
 
-<!-- Profile Views & Followers -->
-<img src="https://komarev.com/ghpvc/?username=Rokshana4904&style=flat-square&color=059669&label=PROFILE+VIEWS" alt="Profile Views"/>
+</td>
+</tr>
+</table>
 
-<img src="https://img.shields.io/github/followers/Rokshana4904?style=flat-square&color=059669&labelColor=0D1117&label=FOLLOWERS" alt="GitHub Followers"/>
+---
 
-</div>
+<!-- CONTRIBUTION STREAK -->
+
+<h3 align="center">🔥 Contribution Streak</h3>
+
+<p align="center">
+  <img width="75%" src="https://streak-stats.demolab.com?user=Rokshana4904&hide_border=true&background=0D1117&ring=059669&fire=6EE7B7&currStreakLabel=6EE7B7&sideLabels=6EE7B7&dates=9CA3AF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Contribution Streak" />
+</p>
+
+---
+
+<!-- CONTRIBUTION ACTIVITY -->
+
+<h3 align="center">📈 Contribution Activity</h3>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rokshana4904&bg_color=0D1117&color=6EE7B7&line=059669&point=6EE7B7&area=true&area_color=064E3B&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub Contribution Activity" />
+</p>
+
+---
+
+<!-- PROFILE VIEWS AND FOLLOWERS -->
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+<h3>👁️ Profile Views</h3>
+
+<img src="https://komarev.com/ghpvc/?username=Rokshana4904&style=for-the-badge&color=059669&label=PROFILE+VIEWS" alt="Profile Views" />
+
+</td>
+<td width="50%" align="center">
+
+<h3>🤝 GitHub Followers</h3>
+
+<img src="https://img.shields.io/github/followers/Rokshana4904?style=for-the-badge&color=059669&labelColor=0D1117&label=FOLLOWERS" alt="GitHub Followers" />
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- MY DEVELOPER JOURNEY -->
+
+<h2 align="center">💚 My Developer Journey</h2>
+
+<table>
+<tr>
+<td align="center" width="25%">
+  <h3>🛡️</h3>
+  <b>Software Quality Assurance</b>
+  <br/><br/>
+  <code>My Focus</code>
+</td>
+<td align="center" width="25%">
+  <h3>🚀</h3>
+  <b>Deliver Reliable Software</b>
+  <br/><br/>
+  <code>My Goal</code>
+</td>
+<td align="center" width="25%">
+  <h3>⚙️</h3>
+  <b>Better Testing Coverage</b>
+  <br/><br/>
+  <code>Next Step</code>
+</td>
+<td align="center" width="25%">
+  <h3>📈</h3>
+  <b>Continuous Learning</b>
+  <br/><br/>
+  <code>Always</code>
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <i>✨ Small commits, consistent learning, and better software quality.</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:022C22,30:065F46,65:059669,100:6EE7B7&height=100&section=footer" width="100%" alt="Emerald Footer" />
+</p>
 
 ---
 
