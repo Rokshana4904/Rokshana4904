@@ -348,13 +348,6 @@
   </a>
 </p>
 
-<!-- CONTRIBUTION ACTIVITY GRAPH -->
-<h3 align="center">📈 Contribution Activity</h3>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rokshana4904&bg_color=0D1117&color=6EE7B7&line=059669&point=6EE7B7&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="GitHub Contribution Activity"/>
-</p>
-
 <!-- PROFILE VIEWS AND FOLLOWERS -->
 <h2 align="center">✨ Profile Engagement</h2>
 
