@@ -38,13 +38,13 @@ Hi! I'm **Rokshana Talukder Ratri**, a Junior SQA Engineer at **Accord Technolog
 
 I'm passionate about software quality, testing methodologies, and delivering reliable software experiences. I enjoy identifying defects, analyzing requirements, designing effective test cases, and helping development teams improve product quality.
 
-💼 **Current Role:** Junior SQA Engineer at Accord Technologies Limited
-🧪 **Specialization:** Software Testing and Quality Assurance
-🔍 **Testing Interests:** Manual Testing, Functional Testing, Regression Testing, API Testing
-🤖 **Automation:** Learning and practicing Selenium
-🗄️ **Currently Learning:** SQL and Database Testing
-🎯 **Goal:** Become a skilled QA Engineer with strong automation and database-testing expertise
-💚 **My Approach:** Understand the requirements, test carefully, report clearly, and improve continuously
+- 💼 **Current Role:** Junior SQA Engineer at Accord Technologies Limited
+- 🧪 **Specialization:** Software Testing and Quality Assurance
+- 🔍 **Testing Interests:** Manual Testing, Functional Testing, Regression Testing, API Testing
+- 🤖 **Automation:** Learning and practicing Selenium
+- 🗄️ **Currently Learning:** SQL and Database Testing
+- 🎯 **Goal:** Become a skilled QA Engineer with strong automation and database-testing expertise
+- 💚 **My Approach:** Understand the requirements, test carefully, report clearly, and improve continuously
 
 <p align="center">
   <i>"Quality is not an act; it is a habit."</i>
