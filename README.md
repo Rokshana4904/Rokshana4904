@@ -46,10 +46,10 @@ I'm passionate about software quality, testing methodologies, and delivering rel
 - 🎯 **Goal:** Become a skilled QA Engineer with strong automation and database-testing expertise
 - 💚 **My Approach:** Understand the requirements, test carefully, report clearly, and improve continuously
 
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1200&color=6EE7B7&center=true&vCenter=true&width=750&lines=%22Quality+is+not+an+act%3B+it+is+a+habit.%22" alt="Animated Quality Quote"/>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=100&text=Quality%20is%20not%20an%20act%3B%20it%20is%20a%20habit.&fontSize=20&fontColor=6EE7B7&animation=twinkling&fontAlignY=50" width="100%" alt="Quality Quote Animation"/>
 </p>
+
 
 
 ---
