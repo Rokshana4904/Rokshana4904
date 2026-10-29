@@ -54,50 +54,71 @@ I'm passionate about software quality, testing methodologies, and delivering rel
 
 ---
 
-<!-- TECHNICAL SKILLS -->
 
-## 🛠️ Technical Skills & Tools
+<!-- ================= TECHNICAL SKILLS & TOOLS ================= -->
 
-### 🧪 Software Testing
+<h2 align="center">🛠️ Technical Skills & Tools</h2>
 
-<p>
-  <img src="https://img.shields.io/badge/Manual%20Testing-059669?style=for-the-badge" alt="Manual Testing"/>
+<p align="center">
+  <b>🧪 Software Testing & QA</b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Manual%20Testing-2E8B57?style=for-the-badge" alt="Manual Testing"/>
   <img src="https://img.shields.io/badge/Functional%20Testing-059669?style=for-the-badge" alt="Functional Testing"/>
-  <img src="https://img.shields.io/badge/Regression%20Testing-059669?style=for-the-badge" alt="Regression Testing"/>
-  <img src="https://img.shields.io/badge/Smoke%20Testing-059669?style=for-the-badge" alt="Smoke Testing"/>
-  <img src="https://img.shields.io/badge/Test%20Cases%20%26%20Scenarios-059669?style=for-the-badge" alt="Test Cases"/>
+  <img src="https://img.shields.io/badge/Regression%20Testing-047857?style=for-the-badge" alt="Regression Testing"/>
+  <img src="https://img.shields.io/badge/Smoke%20Testing-065F46?style=for-the-badge" alt="Smoke Testing"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Test%20Cases-2E8B57?style=for-the-badge" alt="Test Cases"/>
   <img src="https://img.shields.io/badge/Bug%20Reporting-059669?style=for-the-badge" alt="Bug Reporting"/>
+  <img src="https://img.shields.io/badge/API%20Testing-047857?style=for-the-badge" alt="API Testing"/>
 </p>
 
-### 🔌 API Testing & Automation
-
-<p>
-  <img src="https://img.shields.io/badge/Postman-059669?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/Selenium-059669?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
-  <img src="https://img.shields.io/badge/REST%20API%20Testing-059669?style=for-the-badge" alt="REST API Testing"/>
+<p align="center">
+  <b>🔧 Testing Tools</b>
 </p>
 
-### 📋 Project & Collaboration Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Jira-059669?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
-  <img src="https://img.shields.io/badge/Trello-059669?style=for-the-badge&logo=trello&logoColor=white" alt="Trello"/>
-  <img src="https://img.shields.io/badge/Git-059669?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-059669?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
+  <img src="https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white" alt="Trello"/>
 </p>
 
-### 💻 Programming & Web Technologies
-
-<p>
-  <img src="https://img.shields.io/badge/Java-059669?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/JavaScript-059669?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Python-059669?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/HTML5-059669?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-059669?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/MySQL-059669?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
 </p>
 
----
+<p align="center">
+  <b>💻 Programming & Web Technologies</b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+</p>
+
+<p align="center">
+  <b>📚 Currently Learning</b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-059669?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Database%20Testing-047857?style=for-the-badge" alt="Database Testing"/>
+  <img src="https://img.shields.io/badge/Test%20Automation-065F46?style=for-the-badge" alt="Test Automation"/>
+</p>
+
 
 <!-- FEATURED PROJECTS -->
 
