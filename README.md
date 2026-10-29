@@ -1,12 +1,12 @@
 
 <!-- ======================================================== -->
-<!--          ROKSHANA TALUKDER RATRI | PROFILE README        -->
+<!--       ROKSHANA TALUKDER RATRI | GITHUB PROFILE            -->
 <!-- ======================================================== -->
 
 <!-- ANIMATED HEADER -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:022C22,30:065F46,65:059669,100:6EE7B7&height=200&section=header&text=Rokshana%20Talukder%20Ratri&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Junior%20SQA%20Engineer%20%7C%20Quality%20Assurance&descSize=16&descAlignY=55" width="100%" alt="Profile Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:022C22,30:065F46,65:059669,100:6EE7B7&height=200&section=header&text=Rokshana%20Talukder%20Ratri&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Junior%20SQA%20Engineer%20%7C%20Quality%20Assurance&descSize=16&descAlignY=55" width="100%" alt="Emerald Green Profile Header"/>
 </p>
 
 <!-- TYPING ANIMATION -->
@@ -42,7 +42,7 @@
 
 <p align="center">
   I'm passionate about software quality, identifying defects, validating requirements,
-  and helping teams deliver reliable software.
+  designing test cases, and helping teams deliver reliable software.
 </p>
 
 <table>
@@ -51,7 +51,7 @@
       <h3>💼 Professional Profile</h3>
       <ul>
         <li>Junior SQA Engineer at Accord Technologies Limited</li>
-        <li>Computer Science and Engineering graduate</li>
+        <li>Computer Science and Engineering background</li>
         <li>Interested in software testing and quality assurance</li>
         <li>Focused on clear bug reports and effective test cases</li>
       </ul>
@@ -62,14 +62,16 @@
         <li>API testing with Postman</li>
         <li>SQL and database testing</li>
         <li>Selenium automation</li>
-        <li>Better test coverage and defect analysis</li>
+        <li>Improving test coverage and defect analysis</li>
       </ul>
     </td>
   </tr>
 </table>
 
+<!-- ANIMATED QUALITY QUOTE -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3500&pause=1200&color=6EE7B7&center=true&vCenter=true&width=800&lines=%22Quality+is+not+an+act%3B+it+is+a+habit.%22" alt="Animated Quality Quote"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1200&color=6EE7B7&center=true&vCenter=true&width=800&lines=%22Quality+is+not+an+act%3B+it+is+a+habit.%22" alt="Animated Quality Quote"/>
 </p>
 
 ---
@@ -140,7 +142,7 @@
 
 ---
 
-<!-- PROJECTS -->
+<!-- FEATURED PROJECTS -->
 
 <h2 align="center">🚀 Featured Projects</h2>
 
@@ -152,11 +154,11 @@
         <img src="https://img.shields.io/badge/Manual%20QA-059669?style=flat-square" alt="Manual QA"/>
       </p>
       <p>
-        Practice project for validating e-commerce features, documenting test scenarios, and identifying defects.
+        Practice project for validating e-commerce functionality, documenting test scenarios, and identifying defects.
       </p>
       <p align="center">
         <a href="https://github.com/Rokshana4904/Ecommerce_Testing">
-          <img src="https://img.shields.io/badge/View%20Project-065F46?style=for-the-badge&logo=github&logoColor=white" alt="E-commerce Project"/>
+          <img src="https://img.shields.io/badge/View%20Project-065F46?style=for-the-badge&logo=github&logoColor=white" alt="E-commerce Testing"/>
         </a>
       </p>
     </td>
@@ -166,11 +168,11 @@
         <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/>
       </p>
       <p>
-        API practice focused on request validation, response verification, status codes, and endpoint behavior.
+        API testing practice covering requests, response validation, status codes, and endpoint behavior.
       </p>
       <p align="center">
         <a href="https://github.com/Rokshana4904/API-Testing">
-          <img src="https://img.shields.io/badge/View%20Project-065F46?style=for-the-badge&logo=github&logoColor=white" alt="API Testing Project"/>
+          <img src="https://img.shields.io/badge/View%20Project-065F46?style=for-the-badge&logo=github&logoColor=white" alt="API Testing"/>
         </a>
       </p>
     </td>
@@ -180,11 +182,11 @@
         <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium"/>
       </p>
       <p>
-        Practice repository for UI automation skills and learning automated testing workflows.
+        Practice repository for developing UI automation skills and exploring automated testing workflows.
       </p>
       <p align="center">
         <a href="https://github.com/Rokshana4904/Practice-Automation">
-          <img src="https://img.shields.io/badge/View%20Project-065F46?style=for-the-badge&logo=github&logoColor=white" alt="Automation Project"/>
+          <img src="https://img.shields.io/badge/View%20Project-065F46?style=for-the-badge&logo=github&logoColor=white" alt="Automation Practice"/>
         </a>
       </p>
     </td>
@@ -219,7 +221,7 @@
 
 ---
 
-<!-- LEADERSHIP -->
+<!-- LEADERSHIP & VOLUNTEERING -->
 
 <h2 align="center">🌟 Leadership & Volunteering</h2>
 
@@ -251,7 +253,7 @@
 </table>
 
 <p align="center">
-  <i>Building teamwork, communication, coordination, and problem-solving skills through leadership and volunteering.</i>
+  <i>Developing teamwork, communication, coordination, and problem-solving skills through leadership and volunteering.</i>
 </p>
 
 ---
@@ -265,7 +267,7 @@
 </p>
 
 <p align="center">
-  Software testing fundamentals • Test case design • Defect reporting • Manual testing • Automation fundamentals
+  Software Testing Fundamentals • Test Case Design • Defect Reporting • Manual Testing • Automation Fundamentals
 </p>
 
 ---
@@ -278,14 +280,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1200&color=6EE7B7&center=true&vCenter=true&width=500&lines=Code+%E2%80%A2+Test+%E2%80%A2+Improve+%E2%80%A2+Repeat" alt="Code Test Improve Repeat"/>
 </p>
 
-<!-- PROFILE SUMMARY -->
+<!-- PROFILE DETAILS CARD -->
 
 <p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rokshana4904&theme=github_dark"
-    width="100%"
-    alt="GitHub Profile Details"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rokshana4904&theme=github_dark" width="100%" alt="GitHub Profile Details"/>
 </p>
 
 <!-- LANGUAGE CARDS -->
@@ -293,73 +291,51 @@
 <table>
   <tr>
     <td width="50%">
-      <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rokshana4904&theme=github_dark"
-        width="100%"
-        alt="Top Languages by Repository"
-      />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rokshana4904&theme=github_dark" width="100%" alt="Top Languages by Repository"/>
     </td>
     <td width="50%">
-      <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rokshana4904&theme=github_dark"
-        width="100%"
-        alt="Top Languages by Commits"
-      />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rokshana4904&theme=github_dark" width="100%" alt="Top Languages by Commits"/>
     </td>
   </tr>
-</table>
-
-<!-- GITHUB STATS + PRODUCTIVE TIME -->
-
-<table>
   <tr>
     <td width="50%">
-      <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rokshana4904&theme=github_dark"
-        width="100%"
-        alt="GitHub Statistics"
-      />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rokshana4904&theme=github_dark" width="100%" alt="GitHub Statistics"/>
     </td>
     <td width="50%">
-      <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rokshana4904&theme=github_dark&utcOffset=6"
-        width="100%"
-        alt="Productive Time"
-      />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rokshana4904&theme=github_dark&utcOffset=6" width="100%" alt="Productive Time"/>
     </td>
   </tr>
 </table>
 
+<!-- CONTRIBUTION STREAK -->
 
-<!-- 3D CONTRIBUTION GRAPH -->
-
-<h2 align="center">🟢 3D GitHub Contribution Graph</h2>
+<h3 align="center">🔥 Contribution Streak</h3>
 
 <p align="center">
-  <i>Every contribution is a step toward better software quality.</i>
+  <img src="https://streak-stats.demolab.com?user=Rokshana4904&theme=github-dark-blue&hide_border=true&ring=059669&fire=6EE7B7&currStreakLabel=6EE7B7" width="75%" alt="GitHub Contribution Streak"/>
+</p>
+
+<!-- GITHUB CONTRIBUTION CALENDAR -->
+
+<h3 align="center">🟩 GitHub Contribution Calendar</h3>
+
+<p align="center">
+  <i>Every day is an opportunity to learn, test, and improve.</i>
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Rokshana4904&bg_color=050816&color=6EE7B7&line=22C55E&point=4ADE80&area=true&hide_border=true&custom_title=Contribution%20Activity"
-    width="100%"
-    alt="GitHub Contribution Activity Graph"
-  />
+  <a href="https://github.com/Rokshana4904">
+    <img src="https://ghchart.rshah.org/059669/Rokshana4904" width="100%" alt="Rokshana's GitHub Contribution Calendar"/>
+  </a>
 </p>
+
+<!-- CONTRIBUTION ACTIVITY GRAPH -->
+
+<h3 align="center">📈 Contribution Activity</h3>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Rokshana4904&show_icons=true&hide_border=true&bg_color=050816&title_color=6EE7B7&icon_color=22C55E&text_color=FFFFFF"
-    width="49%"
-    alt="GitHub Statistics"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rokshana4904&layout=donut&hide_border=true&bg_color=050816&title_color=6EE7B7&text_color=FFFFFF"
-    width="49%"
-    alt="Top Programming Languages"
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rokshana4904&bg_color=0D1117&color=6EE7B7&line=059669&point=6EE7B7&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="GitHub Contribution Activity"/>
 </p>
-
 
 <!-- PROFILE VIEWS AND FOLLOWERS -->
 
@@ -375,6 +351,20 @@
     </td>
   </tr>
 </table>
+
+---
+
+<!-- 3D CONTRIBUTION GRAPH -->
+
+<h2 align="center">🌐 3D Contribution Graph</h2>
+
+<p align="center">
+  <i>My contributions, visualized in 3D.</i>
+</p>
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D GitHub Contribution Graph"/>
+</p>
 
 ---
 
@@ -440,7 +430,7 @@
 <!-- ANIMATED FOOTER -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:022C22,30:065F46,65:059669,100:6EE7B7&height=130&section=footer" width="100%" alt="Emerald Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:022C22,30:065F46,65:059669,100:6EE7B7&height=130&section=footer" width="100%" alt="Emerald Green Footer"/>
 </p>
 
 <p align="center">
