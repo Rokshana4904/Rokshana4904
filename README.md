@@ -3,20 +3,19 @@
 <!--       ROKSHANA TALUKDER RATRI | GITHUB PROFILE            -->
 <!-- ======================================================== -->
 
-<!-- ANIMATED HEADER -->
+<!-- NOTE: GitHub README supports animated images/SVGs, but not custom CSS animations. -->
 
+<!-- ANIMATED HEADER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:022C22,30:065F46,65:059669,100:6EE7B7&height=200&section=header&text=Rokshana%20Talukder%20Ratri&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Junior%20SQA%20Engineer%20%7C%20Quality%20Assurance&descSize=16&descAlignY=55" width="100%" alt="Emerald Green Profile Header"/>
 </p>
 
 <!-- TYPING ANIMATION -->
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=6EE7B7&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub+Profile!;Junior+SQA+Engineer;Manual+Testing+%7C+API+Testing;Learning+SQL+%26+Database+Testing;Code+%E2%80%A2+Test+%E2%80%A2+Improve+%E2%80%A2+Repeat" alt="Typing Animation"/>
 </p>
 
 <!-- SOCIAL LINKS -->
-
 <p align="center">
   <a href="https://github.com/Rokshana4904">
     <img src="https://img.shields.io/badge/GitHub-Rokshana4904-059669?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -32,8 +31,11 @@
 ---
 
 <!-- ABOUT ME -->
-
 <h2 align="center">👩‍💻 About Me</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2800&pause=900&color=6EE7B7&center=true&vCenter=true&width=650&lines=About%20Me" alt="Animated About Me"/>
+</p>
 
 <p align="center">
   Hi! I'm <b>Rokshana Talukder Ratri</b>, a Junior SQA Engineer at
@@ -69,20 +71,24 @@
 </table>
 
 <!-- ANIMATED QUALITY QUOTE -->
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1200&color=6EE7B7&center=true&vCenter=true&width=800&lines=%22Quality+is+not+an+act%3B+it+is+a+habit.%22" alt="Animated Quality Quote"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:022C22,50:059669,100:6EE7B7&height=3&section=header" width="55%" alt="Emerald Divider"/>
 </p>
 
 ---
 
 <!-- TECHNICAL SKILLS -->
-
 <h2 align="center">🛠️ Technical Skills & Tools</h2>
 
 <p align="center">
-  <b>🧪 Software Testing & QA</b>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2800&pause=900&color=6EE7B7&center=true&vCenter=true&width=650&lines=Technical%20Skills%20and%20Tools" alt="Animated Technical Skills"/>
 </p>
+
+<p align="center"><b>🧪 Software Testing & QA</b></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Manual%20Testing-2E8B57?style=for-the-badge" alt="Manual Testing"/>
@@ -97,9 +103,7 @@
   <img src="https://img.shields.io/badge/API%20Testing-2563EB?style=for-the-badge" alt="API Testing"/>
 </p>
 
-<p align="center">
-  <b>🔧 Testing & Collaboration Tools</b>
-</p>
+<p align="center"><b>🔧 Testing & Collaboration Tools</b></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
@@ -114,9 +118,7 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
 </p>
 
-<p align="center">
-  <b>💻 Programming & Web Technologies</b>
-</p>
+<p align="center"><b>💻 Programming & Web Technologies</b></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
@@ -130,9 +132,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 </p>
 
-<p align="center">
-  <b>🌱 Currently Learning</b>
-</p>
+<p align="center"><b>🌱 Currently Learning</b></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/SQL-059669?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
@@ -140,11 +140,18 @@
   <img src="https://img.shields.io/badge/Test%20Automation-065F46?style=for-the-badge" alt="Test Automation"/>
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:022C22,50:059669,100:6EE7B7&height=3&section=header" width="55%" alt="Emerald Divider"/>
+</p>
+
 ---
 
 <!-- FEATURED PROJECTS -->
-
 <h2 align="center">🚀 Featured Projects</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2800&pause=900&color=6EE7B7&center=true&vCenter=true&width=650&lines=Featured%20Projects" alt="Animated Featured Projects"/>
+</p>
 
 <table>
   <tr>
@@ -153,9 +160,7 @@
       <p align="center">
         <img src="https://img.shields.io/badge/Manual%20QA-059669?style=flat-square" alt="Manual QA"/>
       </p>
-      <p>
-        Practice project for validating e-commerce functionality, documenting test scenarios, and identifying defects.
-      </p>
+      <p>Practice project for validating e-commerce functionality, documenting test scenarios, and identifying defects.</p>
       <p align="center">
         <a href="https://github.com/Rokshana4904/Ecommerce_Testing">
           <img src="https://img.shields.io/badge/View%20Project-065F46?style=for-the-badge&logo=github&logoColor=white" alt="E-commerce Testing"/>
@@ -167,9 +172,7 @@
       <p align="center">
         <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/>
       </p>
-      <p>
-        API testing practice covering requests, response validation, status codes, and endpoint behavior.
-      </p>
+      <p>API testing practice covering requests, response validation, status codes, and endpoint behavior.</p>
       <p align="center">
         <a href="https://github.com/Rokshana4904/API-Testing">
           <img src="https://img.shields.io/badge/View%20Project-065F46?style=for-the-badge&logo=github&logoColor=white" alt="API Testing"/>
@@ -181,9 +184,7 @@
       <p align="center">
         <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium"/>
       </p>
-      <p>
-        Practice repository for developing UI automation skills and exploring automated testing workflows.
-      </p>
+      <p>Practice repository for developing UI automation skills and exploring automated testing workflows.</p>
       <p align="center">
         <a href="https://github.com/Rokshana4904/Practice-Automation">
           <img src="https://img.shields.io/badge/View%20Project-065F46?style=for-the-badge&logo=github&logoColor=white" alt="Automation Practice"/>
@@ -199,17 +200,22 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:022C22,50:059669,100:6EE7B7&height=3&section=header" width="55%" alt="Emerald Divider"/>
+</p>
+
 ---
 
 <!-- EDUCATION -->
-
 <h2 align="center">🎓 Education</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2800&pause=900&color=6EE7B7&center=true&vCenter=true&width=650&lines=Education" alt="Animated Education"/>
+</p>
 
 <table>
   <tr>
-    <td width="15%" align="center">
-      <h2>🎓</h2>
-    </td>
+    <td width="15%" align="center"><h2>🎓</h2></td>
     <td>
       <h3>BSc in Computer Science and Engineering</h3>
       <b>Daffodil International University</b>
@@ -219,11 +225,18 @@
   </tr>
 </table>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:022C22,50:059669,100:6EE7B7&height=3&section=header" width="55%" alt="Emerald Divider"/>
+</p>
+
 ---
 
-<!-- LEADERSHIP & VOLUNTEERING -->
-
+<!-- LEADERSHIP -->
 <h2 align="center">🌟 Leadership & Volunteering</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2800&pause=900&color=6EE7B7&center=true&vCenter=true&width=650&lines=Leadership%20and%20Volunteering" alt="Animated Leadership"/>
+</p>
 
 <table>
   <tr>
@@ -256,11 +269,18 @@
   <i>Developing teamwork, communication, coordination, and problem-solving skills through leadership and volunteering.</i>
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:022C22,50:059669,100:6EE7B7&height=3&section=header" width="55%" alt="Emerald Divider"/>
+</p>
+
 ---
 
 <!-- PROFESSIONAL DEVELOPMENT -->
-
 <h2 align="center">📚 Professional Development</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2800&pause=900&color=6EE7B7&center=true&vCenter=true&width=650&lines=Professional%20Development" alt="Animated Professional Development"/>
+</p>
 
 <p align="center">
   <b>SQA Manual & Automated Testing — Ostad</b>
@@ -270,24 +290,25 @@
   Software Testing Fundamentals • Test Case Design • Defect Reporting • Manual Testing • Automation Fundamentals
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:022C22,50:059669,100:6EE7B7&height=3&section=header" width="55%" alt="Emerald Divider"/>
+</p>
+
 ---
 
-<!-- GITHUB ANALYTICS DASHBOARD -->
-
+<!-- GITHUB ANALYTICS -->
 <h2 align="center">📊 GitHub Analytics Dashboard</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1200&color=6EE7B7&center=true&vCenter=true&width=500&lines=Code+%E2%80%A2+Test+%E2%80%A2+Improve+%E2%80%A2+Repeat" alt="Code Test Improve Repeat"/>
 </p>
 
-<!-- PROFILE DETAILS CARD -->
-
+<!-- PROFILE DETAILS -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rokshana4904&theme=github_dark" width="100%" alt="GitHub Profile Details"/>
 </p>
 
 <!-- LANGUAGE CARDS -->
-
 <table>
   <tr>
     <td width="50%">
@@ -308,19 +329,17 @@
 </table>
 
 <!-- CONTRIBUTION STREAK -->
-
 <h3 align="center">🔥 Contribution Streak</h3>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Rokshana4904&theme=github-dark-blue&hide_border=true&ring=059669&fire=6EE7B7&currStreakLabel=6EE7B7" width="75%" alt="GitHub Contribution Streak"/>
 </p>
 
-<!-- GITHUB CONTRIBUTION CALENDAR -->
-
+<!-- CONTRIBUTION CALENDAR -->
 <h3 align="center">🟩 GitHub Contribution Calendar</h3>
 
 <p align="center">
-  <i>Every day is an opportunity to learn, test, and improve.</i>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2800&pause=900&color=6EE7B7&center=true&vCenter=true&width=650&lines=Every%20day%20is%20a%20chance%20to%20improve" alt="Animated Contribution Calendar Caption"/>
 </p>
 
 <p align="center">
@@ -329,16 +348,18 @@
   </a>
 </p>
 
+<!-- CONTRIBUTION ACTIVITY GRAPH -->
+<h3 align="center">📈 Contribution Activity</h3>
 
-<!-- =============== PROFILE VIEWS & FOLLOWERS =============== -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rokshana4904&bg_color=0D1117&color=6EE7B7&line=059669&point=6EE7B7&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="GitHub Contribution Activity"/>
+</p>
 
+<!-- PROFILE VIEWS AND FOLLOWERS -->
 <h2 align="center">✨ Profile Engagement</h2>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=6EE7B7&center=true&vCenter=true&width=450&lines=Every+visit+matters+%F0%9F%92%9A;Thanks+for+being+part+of+my+journey!"
-    alt="Animated Profile Engagement Message"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=6EE7B7&center=true&vCenter=true&width=450&lines=Every+visit+matters+%F0%9F%92%9A;Thanks+for+being+part+of+my+journey!" alt="Animated Profile Engagement Message"/>
 </p>
 
 <table align="center">
@@ -368,12 +389,14 @@
   <i>💚 Code • Test • Improve • Repeat</i>
 </p>
 
-
 ---
 
 <!-- DEVELOPER JOURNEY -->
-
 <h2 align="center">💚 My Developer Journey</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2800&pause=900&color=6EE7B7&center=true&vCenter=true&width=650&lines=My%20Developer%20Journey" alt="Animated Developer Journey"/>
+</p>
 
 <table>
   <tr>
@@ -408,11 +431,18 @@
   <i>Small commits, consistent learning, and better software quality. 💚</i>
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:022C22,50:059669,100:6EE7B7&height=3&section=header" width="55%" alt="Emerald Divider"/>
+</p>
+
 ---
 
 <!-- CONTACT -->
-
 <h2 align="center">🤝 Let's Connect</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2800&pause=900&color=6EE7B7&center=true&vCenter=true&width=650&lines=Let%27s%20Connect" alt="Animated Let's Connect"/>
+</p>
 
 <p align="center">
   I'm happy to connect with QA professionals, developers, and technology enthusiasts.
@@ -431,7 +461,6 @@
 </p>
 
 <!-- ANIMATED FOOTER -->
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:022C22,30:065F46,65:059669,100:6EE7B7&height=130&section=footer" width="100%" alt="Emerald Green Footer"/>
 </p>
