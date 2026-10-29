@@ -371,20 +371,6 @@
 
 ---
 
-<!-- 3D CONTRIBUTION GRAPH -->
-
-<h2 align="center">🌐 3D Contribution Graph</h2>
-
-<p align="center">
-  <i>My contributions, visualized in 3D.</i>
-</p>
-
-<p align="center">
-  <img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D GitHub Contribution Graph"/>
-</p>
-
----
-
 <!-- DEVELOPER JOURNEY -->
 
 <h2 align="center">💚 My Developer Journey</h2>
