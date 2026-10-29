@@ -203,21 +203,52 @@ Practicing UI automation to improve test repeatability and reduce repetitive man
 <!--                   GITHUB STATS                     -->
 <!-- ================================================== -->
 
+
+<!-- ================= GITHUB ANALYTICS ================= -->
+
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Rokshana4904&show_icons=true&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=6EE7B7&icon_color=059669&text_color=C9D1D9" alt="GitHub statistics"/>
+<!-- Profile Stats -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rokshana4904&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=6EE7B7&icon_color=059669&text_color=C9D1D9" alt="GitHub Profile Statistics"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rokshana4904&layout=compact&hide_border=true&bg_color=0D1117&title_color=6EE7B7&text_color=C9D1D9" alt="Most used programming languages"/>
+<!-- Top Languages -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rokshana4904&layout=donut&hide_border=true&langs_count=6&bg_color=0D1117&title_color=6EE7B7&text_color=C9D1D9" alt="Top Programming Languages"/>
+
+<br/><br/>
+
+<!-- Contribution Streak -->
+<img width="70%" src="https://streak-stats.demolab.com?user=Rokshana4904&hide_border=true&background=0D1117&ring=059669&fire=6EE7B7&currStreakLabel=6EE7B7&sideLabels=6EE7B7&dates=9CA3AF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Contribution Streak"/>
+
+<br/><br/>
+
+<!-- Contribution Activity Graph -->
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rokshana4904&bg_color=0D1117&color=6EE7B7&line=059669&point=6EE7B7&area=true&area_color=064E3B&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub Contribution Activity"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rokshana4904&hide_border=true&background=0D1117&ring=059669&fire=6EE7B7&currStreakLabel=6EE7B7&sideLabels=6EE7B7&dates=9CA3AF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak"/>
+<!-- Profile Views & Followers -->
+<img src="https://komarev.com/ghpvc/?username=Rokshana4904&style=flat-square&color=059669&label=PROFILE+VIEWS" alt="Profile Views"/>
 
-<br/>
+<img src="https://img.shields.io/github/followers/Rokshana4904?style=flat-square&color=059669&labelColor=0D1117&label=FOLLOWERS" alt="GitHub Followers"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rokshana4904&bg_color=0D1117&color=6EE7B7&line=059669&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="GitHub contribution activity"/>
+</div>
+
+---
+
+### 💚 My Developer Journey
+
+<div align="center">
+
+| 🔍 Focus | 🚀 Goal |
+|---|---|
+| Software Quality Assurance | Deliver reliable software |
+| API & Manual Testing | Improve testing coverage |
+| SQL & Database Testing | Validate data integrity |
+| Selenium Automation | Build reusable test scripts |
+
+</div>
 
 </div>
 
