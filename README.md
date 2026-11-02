@@ -206,9 +206,6 @@
 
 ---
 
-
-
-
 <!-- EDUCATION -->
 <h2 align="center">🎓 Education</h2>
 
@@ -216,60 +213,48 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2800&pause=900&color=6EE7B7&center=true&vCenter=true&width=650&lines=My+Education" alt="Education"/>
 </p>
 
-- 🎓 **BSc in Computer Science and Engineering**  
-  Daffodil International University  
-  **CGPA:** 3.70 / 4.00
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <h2>🎓</h2>
+      <b>BSc in Computer Science and Engineering</b>
+      <br/><br/>
+      Daffodil International University
+      <br/><br/>
+      <b>CGPA: 3.70 / 4.00</b>
+    </td>
 
-- 🏫 **Higher Secondary Certificate (HSC)**  
-  Ibrahim Khan Government College  
-  **GPA:** 4.67 / 5.00
-
-- 📚 **Secondary School Certificate (SSC)**  
-  Bhuapur Pilot Girls High School  
-  **GPA:** 4.61 / 5.00
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:022C22,50:059669,100:6EE7B7&height=3&section=header" width="55%" alt="Emerald Divider"/>
-</p>
----
-
-<!-- LEADERSHIP -->
-<h2 align="center">🌟 Leadership & Volunteering</h2>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2800&pause=900&color=6EE7B7&center=true&vCenter=true&width=650&lines=Leadership%20and%20Volunteering" alt="Animated Leadership"/>
+    <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2800&pause=900&color=6EE7B7&center=true&vCenter=true&width=650&lines=My+Education" alt="Education"/>
 </p>
 
-<table>
+<table align="center">
   <tr>
-    <th align="left">Position</th>
-    <th align="left">Organization / Event</th>
-  </tr>
+    <td align="center" width="33%">
+      <h2>🎓</h2>
+      <b>Higher Secondary Certificate (HSC)</b>
+      <br/><br/>
+     Ibrahim Khan Government College
+      <br/><br/>
+      <b>GPA: 4.67 / 5.00</b>
+    </td>
+
+    <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2800&pause=900&color=6EE7B7&center=true&vCenter=true&width=650&lines=My+Education" alt="Education"/>
+</p>
+
+<table align="center">
   <tr>
-    <td>Assistant General Secretary</td>
-    <td>DIU Computer & Programming Club</td>
-  </tr>
-  <tr>
-    <td>Executive Member</td>
-    <td>DIU Computer & Programming Club</td>
-  </tr>
-  <tr>
-    <td>Session Coordinator</td>
-    <td>BIM 2023</td>
-  </tr>
-  <tr>
-    <td>Team Lead — Volunteers</td>
-    <td>ICPC 2024</td>
-  </tr>
-  <tr>
-    <td>Team Lead — Volunteers</td>
-    <td>Robo Tech Olympiad 2024</td>
+    <td align="center" width="33%">
+      <h2>🎓</h2>
+      <b>Secondary School Certificate (SSC)</b>
+      <br/><br/>
+      Bhuapur Pilot Girls High School
+      <br/><br/>
+      <b>GPA: 4.61 / 5.00</b>
+    </td>
   </tr>
 </table>
-
-<p align="center">
-  <i>Developing teamwork, communication, coordination, and problem-solving skills through leadership and volunteering.</i>
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:022C22,50:059669,100:6EE7B7&height=3&section=header" width="55%" alt="Emerald Divider"/>
