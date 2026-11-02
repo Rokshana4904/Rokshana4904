@@ -207,50 +207,31 @@
 ---
 
 
+
+
 <!-- EDUCATION -->
 <h2 align="center">🎓 Education</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2800&pause=900&color=6EE7B7&center=true&vCenter=true&width=650&lines=My+Academic+Journey" alt="Animated Education"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2800&pause=900&color=6EE7B7&center=true&vCenter=true&width=650&lines=My+Education" alt="Education"/>
 </p>
 
-<table width="100%">
-  <tr>
-    <td align="center" width="33%">
-      <h1>🎓</h1>
-      <h3>Bachelor's Degree</h3>
-      <b>BSc in Computer Science and Engineering</b>
-      <br/><br/>
-      Daffodil International University
-      <br/><br/>
-      <img src="https://img.shields.io/badge/CGPA-3.70%2F4.00-059669?style=for-the-badge&logo=google-scholar&logoColor=white"/>
-    </td>
+- 🎓 **BSc in Computer Science and Engineering**  
+  Daffodil International University  
+  **CGPA:** 3.70 / 4.00
 
-    <td align="center" width="33%">
-      <h1>🏫</h1>
-      <h3>Higher Secondary</h3>
-      <b>Higher Secondary Certificate (HSC)</b>
-      <br/><br/>
-      Ibrahim Khan Government College
-      <br/><br/>
-      <img src="https://img.shields.io/badge/GPA-4.67%2F5.00-059669?style=for-the-badge&logo=google-scholar&logoColor=white"/>
-    </td>
+- 🏫 **Higher Secondary Certificate (HSC)**  
+  Ibrahim Khan Government College  
+  **GPA:** 4.67 / 5.00
 
-    <td align="center" width="33%">
-      <h1>📚</h1>
-      <h3>Secondary Education</h3>
-      <b>Secondary School Certificate (SSC)</b>
-      <br/><br/>
-      Bhuapur Pilot Girls High School
-      <br/><br/>
-      <img src="https://img.shields.io/badge/GPA-4.61%2F5.00-059669?style=for-the-badge&logo=google-scholar&logoColor=white"/>
-    </td>
-  </tr>
-</table>
+- 📚 **Secondary School Certificate (SSC)**  
+  Bhuapur Pilot Girls High School  
+  **GPA:** 4.61 / 5.00
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:022C22,50:059669,100:6EE7B7&height=3&section=header" width="55%" alt="Emerald Divider"/>
 </p>
+---
 
 <!-- LEADERSHIP -->
 <h2 align="center">🌟 Leadership & Volunteering</h2>
