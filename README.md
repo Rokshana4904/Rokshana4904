@@ -223,8 +223,6 @@
       <br/><br/>
       <b>CGPA: 3.70 / 4.00</b>
     </td>
-
-    <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2800&pause=900&color=6EE7B7&center=true&vCenter=true&width=650&lines=My+Education" alt="Education"/>
 </p>
 
@@ -238,8 +236,6 @@
       <br/><br/>
       <b>GPA: 4.67 / 5.00</b>
     </td>
-
-    <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2800&pause=900&color=6EE7B7&center=true&vCenter=true&width=650&lines=My+Education" alt="Education"/>
 </p>
 
