@@ -214,8 +214,11 @@
 </p>
 
 <table>
+  <!-- UNIVERSITY -->
   <tr>
-    <td width="15%" align="center"><h2>🎓</h2></td>
+    <td width="15%" align="center">
+      <h2>🎓</h2>
+    </td>
     <td>
       <h3>BSc in Computer Science and Engineering</h3>
       <b>Daffodil International University</b>
@@ -223,12 +226,37 @@
       <b>CGPA:</b> 3.70 / 4.00
     </td>
   </tr>
+
+  <!-- COLLEGE -->
+  <tr>
+    <td width="15%" align="center">
+      <h2>🏫</h2>
+    </td>
+    <td>
+      <h3>Higher Secondary Certificate (HSC)</h3>
+      <b>Ibrahim Khan Government College</b>
+      <br/><br/>
+      <b>GPA:</b> 4.67 / 5.00
+    </td>
+  </tr>
+
+  <!-- SCHOOL -->
+  <tr>
+    <td width="15%" align="center">
+      <h2>📚</h2>
+    </td>
+    <td>
+      <h3>Secondary School Certificate (SSC)</h3>
+      <b>Bhuapur Pilot Girls High School</b>
+      <br/><br/>
+      <b>GPA:</b> 4.61 / 5.00
+    </td>
+  </tr>
 </table>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:022C22,50:059669,100:6EE7B7&height=3&section=header" width="55%" alt="Emerald Divider"/>
 </p>
-
 ---
 
 <!-- LEADERSHIP -->
